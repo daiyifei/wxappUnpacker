@@ -15,3 +15,6 @@ build.xml
 .gradle/
 build/
 captures/
+
+node_modules/
+testpkg/
